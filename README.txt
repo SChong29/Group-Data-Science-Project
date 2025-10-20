@@ -1,4 +1,7 @@
-A summary of notebooks we'd like you to look at:
+This repository contains all the jupyter notebooks used to scrape, process and visualise the data (not shared in the repo due to size)
+The aim of this project was to see what made songs or artists popular, which we answered through the research question notebooks.
+
+Below is a summary of notebooks we'd like you to look at (For assignment assessment):
 
 kworb_scraper.ipynb - Pulls aggregated chart data from Kworb
 spotify_song_scraper.ipynb - Pulling songs from Spotify API for our dataset
